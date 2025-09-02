@@ -1,0 +1,128 @@
+{"timestamp":"2025-09-02T10:46:04.341+09:00","level":"INFO","message":"Log file rotated","date":"2025-09-02","log_path":"../logs/2025/09/02/app.log"}
+{"timestamp":"2025-09-02T12:15:49.680+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T12:17:20.897+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T12:19:25.419+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T12:21:01.111+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T12:26:16.685+09:00","level":"INFO","message":"Log file rotated","date":"2025-09-02","log_path":"../logs/2025/09/02/app.log"}
+{"timestamp":"2025-09-02T12:27:38.925+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T12:28:06.971+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T12:28:24.339+09:00","level":"INFO","message":"Log file rotated","date":"2025-09-02","log_path":"../logs/2025/09/02/app.log"}
+{"timestamp":"2025-09-02T12:28:43.004+09:00","level":"INFO","message":"Log file rotated","date":"2025-09-02","log_path":"../logs/2025/09/02/app.log"}
+{"timestamp":"2025-09-02T12:29:12.599+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T13:31:46.415+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T14:31:28.316+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T14:31:30.050+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273344}
+{"timestamp":"2025-09-02T14:31:30.050+09:00","level":"INFO","message":"Ethereum chain tracking started","lastCheckedBlock":63932774,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:31:30.083+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:31:30.731+09:00","level":"INFO","message":"No new blocks to scan","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:31:31.096+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":23273344,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:31:31.461+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932774,"chainId":101}
+{"timestamp":"2025-09-02T14:32:10.157+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/02/app.log","date":"2025-09-02"}
+{"timestamp":"2025-09-02T14:32:20.048+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273347}
+{"timestamp":"2025-09-02T14:32:20.049+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932815,"chainId":101}
+{"timestamp":"2025-09-02T14:32:20.080+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:32:20.656+09:00","level":"INFO","message":"No new blocks to scan","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:32:20.827+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":63932815,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:32:20.970+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273347}
+{"timestamp":"2025-09-02T14:32:30.008+09:00","level":"INFO","message":"Ethereum chain tracking started","lastCheckedBlock":63932860,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:32:30.009+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273355,"chainId":34}
+{"timestamp":"2025-09-02T14:32:30.058+09:00","level":"INFO","message":"TRON chain tracking started","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:32:30.244+09:00","level":"INFO","message":"No new blocks to scan","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:32:30.388+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273355,"chainId":34}
+{"timestamp":"2025-09-02T14:32:31.130+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":63932860,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:32:40.009+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932874,"chainId":101}
+{"timestamp":"2025-09-02T14:32:40.061+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:32:40.061+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273356,"chainId":34}
+{"timestamp":"2025-09-02T14:32:40.253+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:32:40.451+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":23273356,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:32:41.130+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932874,"chainId":101}
+{"timestamp":"2025-09-02T14:32:50.009+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:32:50.068+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932887}
+{"timestamp":"2025-09-02T14:32:50.068+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273357,"chainId":34}
+{"timestamp":"2025-09-02T14:32:50.199+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:32:50.449+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273357}
+{"timestamp":"2025-09-02T14:32:50.695+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932887}
+{"timestamp":"2025-09-02T14:33:00.012+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:33:00.055+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273358}
+{"timestamp":"2025-09-02T14:33:00.056+09:00","level":"INFO","message":"Ethereum chain tracking started","lastCheckedBlock":63932900,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:33:00.240+09:00","level":"INFO","message":"No new blocks to scan","lastCheckedBlock":23273358,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:33:00.262+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:01.262+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932900,"chainId":101}
+{"timestamp":"2025-09-02T14:33:10.008+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273358,"chainId":34}
+{"timestamp":"2025-09-02T14:33:10.052+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932914,"chainId":101}
+{"timestamp":"2025-09-02T14:33:10.052+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:10.242+09:00","level":"INFO","message":"No new blocks to scan","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:33:10.387+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273358}
+{"timestamp":"2025-09-02T14:33:10.682+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932914,"chainId":101}
+{"timestamp":"2025-09-02T14:33:20.010+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273359,"chainId":34}
+{"timestamp":"2025-09-02T14:33:20.054+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:20.054+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932927}
+{"timestamp":"2025-09-02T14:33:20.245+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:20.386+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273359}
+{"timestamp":"2025-09-02T14:33:20.701+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932927,"chainId":101}
+{"timestamp":"2025-09-02T14:33:30.015+09:00","level":"INFO","message":"TRON chain tracking started","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:33:30.062+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932940,"chainId":101}
+{"timestamp":"2025-09-02T14:33:30.062+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273360,"chainId":34}
+{"timestamp":"2025-09-02T14:33:30.212+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:30.440+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":23273360,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:33:31.698+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932940,"chainId":101}
+{"timestamp":"2025-09-02T14:33:40.008+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:40.008+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273361,"chainId":34}
+{"timestamp":"2025-09-02T14:33:40.055+09:00","level":"INFO","message":"Ethereum chain tracking started","lastCheckedBlock":63932954,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:33:40.198+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:40.392+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273361,"chainId":34}
+{"timestamp":"2025-09-02T14:33:40.690+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":63932954,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:33:50.008+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273362,"chainId":34}
+{"timestamp":"2025-09-02T14:33:50.009+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:33:50.056+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932966,"chainId":101}
+{"timestamp":"2025-09-02T14:33:50.256+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:33:50.385+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273362}
+{"timestamp":"2025-09-02T14:33:50.707+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932966,"chainId":101}
+{"timestamp":"2025-09-02T14:34:00.012+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:34:00.083+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932979,"chainId":101}
+{"timestamp":"2025-09-02T14:34:00.089+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273363,"chainId":34}
+{"timestamp":"2025-09-02T14:34:00.203+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:34:00.282+09:00","level":"INFO","message":"No new blocks to scan","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273363}
+{"timestamp":"2025-09-02T14:34:00.732+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932979,"chainId":101}
+{"timestamp":"2025-09-02T14:34:10.010+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273363,"chainId":34}
+{"timestamp":"2025-09-02T14:34:10.061+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932993}
+{"timestamp":"2025-09-02T14:34:10.061+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:34:10.249+09:00","level":"INFO","message":"No new blocks to scan","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:34:10.396+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273363,"chainId":34}
+{"timestamp":"2025-09-02T14:34:11.733+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63932993,"chainId":101}
+{"timestamp":"2025-09-02T14:34:20.009+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273364}
+{"timestamp":"2025-09-02T14:34:20.064+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933007}
+{"timestamp":"2025-09-02T14:34:20.064+09:00","level":"INFO","message":"TRON chain tracking started","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:34:20.248+09:00","level":"INFO","message":"No new blocks to scan","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:34:20.406+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273364}
+{"timestamp":"2025-09-02T14:34:20.696+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933007,"chainId":101}
+{"timestamp":"2025-09-02T14:34:30.009+09:00","level":"INFO","message":"TRON chain tracking started","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:34:30.055+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933019}
+{"timestamp":"2025-09-02T14:34:30.056+09:00","level":"INFO","message":"Ethereum chain tracking started","lastCheckedBlock":23273365,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:34:30.197+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:34:30.436+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":23273365,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:34:31.193+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933019,"chainId":101}
+{"timestamp":"2025-09-02T14:34:40.009+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933033}
+{"timestamp":"2025-09-02T14:34:40.063+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273366}
+{"timestamp":"2025-09-02T14:34:40.064+09:00","level":"INFO","message":"TRON chain tracking started","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:34:40.253+09:00","level":"INFO","message":"No new blocks to scan","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:34:40.444+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":23273366,"chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-09-02T14:34:40.677+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933033,"chainId":101}
+{"timestamp":"2025-09-02T14:34:50.010+09:00","level":"INFO","message":"TRON chain tracking started","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:34:50.057+09:00","level":"INFO","message":"Ethereum chain tracking started","lastCheckedBlock":63933046,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:34:50.058+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273367,"chainId":34}
+{"timestamp":"2025-09-02T14:34:50.200+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:34:50.449+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273367,"chainId":34}
+{"timestamp":"2025-09-02T14:34:51.216+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933046}
+{"timestamp":"2025-09-02T14:35:00.010+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:35:00.073+09:00","level":"INFO","message":"Ethereum chain tracking started","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273368,"chainId":34}
+{"timestamp":"2025-09-02T14:35:00.074+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933060}
+{"timestamp":"2025-09-02T14:35:00.198+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449,"chainId":67}
+{"timestamp":"2025-09-02T14:35:00.259+09:00","level":"INFO","message":"No new blocks to scan","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273368,"chainId":34}
+{"timestamp":"2025-09-02T14:35:01.213+09:00","level":"INFO","message":"Ethereum chain tracking completed","lastCheckedBlock":63933060,"chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com"}
+{"timestamp":"2025-09-02T14:35:10.009+09:00","level":"INFO","message":"TRON chain tracking started","chainId":67,"rpcURL":"https://api.shasta.trongrid.io","lastCheckedBlock":57619449}
+{"timestamp":"2025-09-02T14:35:10.056+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":34,"rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273368}
+{"timestamp":"2025-09-02T14:35:10.056+09:00","level":"INFO","message":"Ethereum chain tracking started","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933073}
+{"timestamp":"2025-09-02T14:35:10.199+09:00","level":"INFO","message":"No new blocks to scan","lastCheckedBlock":57619449,"chainId":67,"rpcURL":"https://api.shasta.trongrid.io"}
+{"timestamp":"2025-09-02T14:35:10.434+09:00","level":"INFO","message":"Ethereum chain tracking completed","rpcURL":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","lastCheckedBlock":23273368,"chainId":34}
+{"timestamp":"2025-09-02T14:35:11.209+09:00","level":"INFO","message":"Ethereum chain tracking completed","chainId":101,"rpcURL":"https://bsc-testnet-rpc.publicnode.com","lastCheckedBlock":63933073}

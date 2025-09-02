@@ -1,0 +1,81 @@
+{"timestamp":"2025-08-26T16:53:22.627+09:00","level":"INFO","message":"Log file rotated","date":"2025-08-26","log_path":"../logs/2025/08/26/app.log"}
+{"timestamp":"2025-08-26T16:53:22.627+09:00","level":"INFO","request_id":"1756194802627554000","message":"Request started","method":"GET","path":"/balance","user_agent":"curl/8.7.1","content_length":0,"query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:52798"}
+{"timestamp":"2025-08-26T16:53:23.341+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T16:53:23.341+09:00","level":"INFO","message":"ERC20Manager initialized","chain_id":"0","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","symbol":"USDT(Ethereum)"}
+{"timestamp":"2025-08-26T16:53:23.342+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T16:53:24.177+09:00","level":"INFO","message":"ERC20 balance fetched","balance":"0","decimal":6,"amtStr":"0","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344"}
+{"timestamp":"2025-08-26T16:53:24.177+09:00","level":"INFO","message":"EtherBalance succeeded","token":"USDT(Ethereum)","balance":"0","email":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T16:53:24.177+09:00","level":"INFO","message":"ETH balance response","path":"/balance","balance":"0","token":"USDT(Ethereum)","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T16:53:24.177+09:00","level":"INFO","request_id":"1756194802627554000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1550,"size":1,"duration_ns":1550372125}
+{"timestamp":"2025-08-26T17:07:40.420+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/08/26/app.log","date":"2025-08-26"}
+{"timestamp":"2025-08-26T17:07:40.420+09:00","level":"INFO","request_id":"1756195660420553000","message":"Request started","method":"GET","path":"/balance","content_length":0,"query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:52913","user_agent":"curl/8.7.1"}
+{"timestamp":"2025-08-26T17:07:41.068+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:07:41.069+09:00","level":"INFO","message":"ERC20Manager initialized","symbol":"USDT(Ethereum)","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","chain_id":"0","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748"}
+{"timestamp":"2025-08-26T17:07:41.069+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:07:41.818+09:00","level":"INFO","message":"ERC20 balance fetched","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","balance":"0","decimal":6,"amtStr":"0"}
+{"timestamp":"2025-08-26T17:07:41.818+09:00","level":"INFO","message":"EtherBalance succeeded","email":"powerwaves5307@gmail.com","token":"USDT(Ethereum)","balance":"0"}
+{"timestamp":"2025-08-26T17:07:41.818+09:00","level":"INFO","message":"ETH balance response","path":"/balance","token":"USDT(Ethereum)","key":"powerwaves5307@gmail.com","balance":"0"}
+{"timestamp":"2025-08-26T17:07:41.818+09:00","level":"INFO","request_id":"1756195660420553000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1397,"duration_ns":1397994875,"size":1}
+{"timestamp":"2025-08-26T17:08:12.276+09:00","level":"INFO","message":"Log file rotated","date":"2025-08-26","log_path":"../logs/2025/08/26/app.log"}
+{"timestamp":"2025-08-26T17:08:12.276+09:00","level":"INFO","request_id":"1756195692276834000","message":"Request started","method":"GET","path":"/balance","remote_addr":"127.0.0.1:52922","user_agent":"curl/8.7.1","content_length":0,"query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:08:12.863+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:08:12.864+09:00","level":"INFO","message":"ERC20Manager initialized","symbol":"USDT(Ethereum)","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","chain_id":"0","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20"}
+{"timestamp":"2025-08-26T17:08:12.864+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:08:13.616+09:00","level":"INFO","message":"ERC20 balance fetched","amtStr":"0","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","balance":"0","decimal":6}
+{"timestamp":"2025-08-26T17:08:13.616+09:00","level":"INFO","message":"EtherBalance succeeded","token":"USDT(Ethereum)","balance":"0","email":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:08:13.616+09:00","level":"INFO","message":"ETH balance response","path":"/balance","key":"powerwaves5307@gmail.com","token":"USDT(Ethereum)","balance":"0"}
+{"timestamp":"2025-08-26T17:08:13.616+09:00","level":"INFO","request_id":"1756195692276834000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1340,"duration_ns":1340145167,"size":1}
+{"timestamp":"2025-08-26T17:08:22.770+09:00","level":"INFO","request_id":"1756195702770025000","message":"Request started","method":"GET","path":"/balance","user_agent":"curl/8.7.1","content_length":0,"query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:52926"}
+{"timestamp":"2025-08-26T17:08:23.055+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:08:23.056+09:00","level":"INFO","message":"ERC20Manager initialized","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","chain_id":"0","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","symbol":"USDT(Ethereum)"}
+{"timestamp":"2025-08-26T17:08:23.056+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:08:23.251+09:00","level":"INFO","message":"ERC20 balance fetched","amtStr":"0","balance":"0","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","decimal":6}
+{"timestamp":"2025-08-26T17:08:23.252+09:00","level":"INFO","message":"EtherBalance succeeded","email":"powerwaves5307@gmail.com","token":"USDT(Ethereum)","balance":"0"}
+{"timestamp":"2025-08-26T17:08:23.252+09:00","level":"INFO","message":"ETH balance response","path":"/balance","token":"USDT(Ethereum)","balance":"0","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:08:23.252+09:00","level":"INFO","request_id":"1756195702770025000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":482,"duration_ns":482094042,"size":1}
+{"timestamp":"2025-08-26T17:15:34.284+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/08/26/app.log","date":"2025-08-26"}
+{"timestamp":"2025-08-26T17:15:34.285+09:00","level":"INFO","request_id":"1756196134284999000","message":"Request started","method":"GET","path":"/balance","query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:52974","user_agent":"curl/8.7.1","content_length":0}
+{"timestamp":"2025-08-26T17:15:34.872+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:15:34.873+09:00","level":"INFO","message":"ERC20Manager initialized","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","chain_id":"0","symbol":"USDT(Ethereum)"}
+{"timestamp":"2025-08-26T17:15:34.873+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:15:35.618+09:00","level":"INFO","message":"ERC20 balance fetched","decimal":6,"amtStr":"0","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","balance":"0"}
+{"timestamp":"2025-08-26T17:15:35.619+09:00","level":"INFO","message":"ETH balance response","path":"/balance","key":"powerwaves5307@gmail.com","token":"USDT(Ethereum)","balance":"0"}
+{"timestamp":"2025-08-26T17:15:35.619+09:00","level":"INFO","request_id":"1756196134284999000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1334,"duration_ns":1334249416,"size":1}
+{"timestamp":"2025-08-26T17:15:54.772+09:00","level":"INFO","message":"Log file rotated","date":"2025-08-26","log_path":"../logs/2025/08/26/app.log"}
+{"timestamp":"2025-08-26T17:15:54.772+09:00","level":"INFO","request_id":"1756196154772888000","message":"Request started","method":"GET","path":"/balance","query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:52983","user_agent":"curl/8.7.1","content_length":0}
+{"timestamp":"2025-08-26T17:15:55.361+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:15:55.362+09:00","level":"INFO","message":"ERC20Manager initialized","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","chain_id":"0","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","symbol":"USDT(Ethereum)"}
+{"timestamp":"2025-08-26T17:15:55.362+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:15:56.086+09:00","level":"INFO","message":"ERC20 balance fetched","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","decimal":6,"amtStr":"0","balance":"0"}
+{"timestamp":"2025-08-26T17:15:56.086+09:00","level":"INFO","message":"EtherBalance succeeded","balance":"0","email":"powerwaves5307@gmail.com","token":"USDT(Ethereum)"}
+{"timestamp":"2025-08-26T17:15:56.086+09:00","level":"INFO","message":"ETH balance response","path":"/balance","balance":"0","token":"USDT(Ethereum)","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:15:56.086+09:00","level":"INFO","request_id":"1756196154772888000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1313,"duration_ns":1313944458,"size":1}
+{"timestamp":"2025-08-26T17:18:12.397+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/08/26/app.log","date":"2025-08-26"}
+{"timestamp":"2025-08-26T17:18:15.139+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/08/26/app.log","date":"2025-08-26"}
+{"timestamp":"2025-08-26T17:18:15.139+09:00","level":"INFO","request_id":"1756196295139725000","message":"Request started","method":"GET","path":"/balance","query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:53004","user_agent":"curl/8.7.1","content_length":0}
+{"timestamp":"2025-08-26T17:18:15.747+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:18:15.748+09:00","level":"INFO","message":"ERC20Manager initialized","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","symbol":"USDT(Ethereum)","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","chain_id":"0"}
+{"timestamp":"2025-08-26T17:18:15.748+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:18:16.478+09:00","level":"INFO","message":"ERC20 balance fetched","balance":"0","decimal":6,"amtStr":"0","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344"}
+{"timestamp":"2025-08-26T17:18:16.478+09:00","level":"INFO","message":"EtherBalance succeeded","token":"USDT(Ethereum)","balance":"0","email":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:18:16.478+09:00","level":"INFO","message":"ETH balance response","path":"/balance","balance":"0","token":"USDT(Ethereum)","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:18:16.478+09:00","level":"INFO","request_id":"1756196295139725000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1338,"duration_ns":1338996500,"size":1}
+{"timestamp":"2025-08-26T17:18:45.333+09:00","level":"INFO","message":"Log file rotated","date":"2025-08-26","log_path":"../logs/2025/08/26/app.log"}
+{"timestamp":"2025-08-26T17:18:51.121+09:00","level":"INFO","message":"Log file rotated","date":"2025-08-26","log_path":"../logs/2025/08/26/app.log"}
+{"timestamp":"2025-08-26T17:18:51.121+09:00","level":"INFO","request_id":"1756196331121123000","message":"Request started","method":"GET","path":"/balance","user_agent":"curl/8.7.1","content_length":0,"query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:53015"}
+{"timestamp":"2025-08-26T17:18:51.684+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:18:51.685+09:00","level":"INFO","message":"ERC20Manager initialized","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","symbol":"USDT(Ethereum)","chain_id":"0","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20"}
+{"timestamp":"2025-08-26T17:18:51.685+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:18:52.417+09:00","level":"INFO","message":"ERC20 balance fetched","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","balance":"0","decimal":6,"amtStr":"0"}
+{"timestamp":"2025-08-26T17:18:52.417+09:00","level":"INFO","message":"EtherBalance succeeded","email":"powerwaves5307@gmail.com","token":"USDT(Ethereum)","balance":"0"}
+{"timestamp":"2025-08-26T17:18:52.417+09:00","level":"INFO","message":"ETH balance response","path":"/balance","key":"powerwaves5307@gmail.com","token":"USDT(Ethereum)","balance":"0"}
+{"timestamp":"2025-08-26T17:18:52.417+09:00","level":"INFO","request_id":"1756196331121123000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1296,"duration_ns":1296533541,"size":1}
+{"timestamp":"2025-08-26T17:22:24.006+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/08/26/app.log","date":"2025-08-26"}
+{"timestamp":"2025-08-26T17:22:37.446+09:00","level":"INFO","request_id":"1756196557446891000","message":"Request started","method":"GET","path":"/balance","query":"token=USDT(Ethereum)\u0026key=powerwaves5307@gmail.com","remote_addr":"127.0.0.1:53064","user_agent":"curl/8.7.1","content_length":0}
+{"timestamp":"2025-08-26T17:22:38.012+09:00","level":"INFO","message":"Admin private key decrypted","func":"GetAdminPrivateKey"}
+{"timestamp":"2025-08-26T17:22:38.013+09:00","level":"INFO","message":"ERC20Manager initialized","rpc_url":"https://mainnet.infura.io/v3/797bf8978f5449afb7f94d472d718748","symbol":"USDT(Ethereum)","admin_addr":"0xD506eBd8C37E2052Db940427534EDB49d71E4f20","chain_id":"0"}
+{"timestamp":"2025-08-26T17:22:38.014+09:00","level":"INFO","message":"Private key generated","key":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:22:38.768+09:00","level":"INFO","message":"ERC20 balance fetched","decimal":6,"amtStr":"0","contract":"0xdAC17F958D2ee523a2206206994597C13D831ec7","address":"0xB4802c25C4255123449FE2f37DcB69614C44C344","balance":"0"}
+{"timestamp":"2025-08-26T17:22:38.768+09:00","level":"INFO","message":"EtherBalance succeeded","token":"USDT(Ethereum)","balance":"0","email":"powerwaves5307@gmail.com"}
+{"timestamp":"2025-08-26T17:22:38.768+09:00","level":"INFO","message":"ETH balance response","path":"/balance","token":"USDT(Ethereum)","key":"powerwaves5307@gmail.com","balance":"0"}
+{"timestamp":"2025-08-26T17:22:38.768+09:00","level":"INFO","request_id":"1756196557446891000","message":"Request completed","method":"GET","path":"/balance","status":200,"duration_ms":1321,"duration_ns":1321734209,"size":1}
