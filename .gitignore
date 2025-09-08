@@ -1,0 +1,14 @@
+.env
+acecasino-util
+.vscode/settings.json
+src/cmd/.env*
+src/cmd/__debug_*
+CLAUDE.md
+
+.claude/
+
+temp/
+
+.idea/
+.github/
+src/cmd/logs/*

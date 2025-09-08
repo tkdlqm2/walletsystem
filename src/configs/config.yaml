@@ -1,0 +1,26 @@
+server:
+  host: "localhost"
+  port: "8080"
+
+database:
+  host: "localhost"
+  port: "5432"
+  user: "postgres"
+  password: "password"
+  database: "account_manage"
+  sslmode: "disable"
+
+blockchain:
+  ethereum:
+    rpc_url: "https://mainnet.infura.io/v3/YOUR_PROJECT_ID"
+  tron:
+    rpc_url: "https://api.trongrid.io"
+
+notification:
+  telegram:
+    bot_token: "YOUR_BOT_TOKEN"
+    chat_id: "YOUR_CHAT_ID"
+
+logging:
+  level: "info"
+  format: "json"

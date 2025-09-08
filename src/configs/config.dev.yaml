@@ -1,0 +1,46 @@
+server:
+  host: "localhost"
+  port: "6214"
+
+database:
+  host: "vultr-prod-05861b61-df5f-4ffb-a42d-8966193ed50d-vultr-prod-fbde.vultrdb.com"
+  port: "16751"
+  user: "ace_test"
+  database: "ace-test"
+  sslmode: "require"
+
+blockchain:
+  ethereum:
+    rpc_url: "https://goerli.infura.io/v3/YOUR_PROJECT_ID"
+  tron:
+    rpc_url: "https://api.shasta.trongrid.io"
+    usdt_address: "TP5bc86EyYZjbLQJ96PSghUr81GNhmVc5o"
+    send_token: "dkfh^723h&9lvp4snvgp%bo342uyg90i8c"
+    trongrid_api_key: "e89b97a9-dc53-4d3e-b316-791bbd621c7c"
+
+notification:
+  telegram:
+    bot_token: "8378562258:AAGIi9UrWWskx1ZGe4ZXXgswSXHaFWiDQS4"
+    chat_id: "-4246320196"
+
+logging:
+  level: "info"
+  format: "json"
+  dir: "./../../logs"
+
+crypto:
+  passphrase: "Y9@k!7p$zW#L&2jT%4vR*c"
+  seed: "$p%nf^37@&4g(3(?hf3h@%87bagpf$wifai@^(fg2"
+  salt: "vK8mR2pL9nQ4xF7jH6vN3sB8mW5kP2rL9nQ4xF7jH6vN3sB8"
+
+aws:
+  secret_id: "dev-wallet"
+  key_alias: "alias/dev-ace"
+
+
+deposit_processing:
+  batch_size: 100
+  processing_interval: "10s"
+  max_retries: 3
+  timeout: "5m"
+  enable_scheduler: true

@@ -1,0 +1,50 @@
+{"timestamp":"2025-09-08T10:04:55.178+09:00","level":"INFO","message":"Log file rotated","date":"2025-09-08","log_path":"../logs/2025/09/08/app.log"}
+{"timestamp":"2025-09-08T10:04:56.911+09:00","level":"INFO","message":"=== Server Configuration ==="}
+{"timestamp":"2025-09-08T10:04:56.911+09:00","level":"INFO","message":"Server Host: localhost"}
+{"timestamp":"2025-09-08T10:04:56.911+09:00","level":"INFO","message":"Server Port: 6214"}
+{"timestamp":"2025-09-08T10:04:56.911+09:00","level":"INFO","message":"=== Configuration Loaded Successfully ==="}
+{"timestamp":"2025-09-08T10:04:56.923+09:00","level":"INFO","message":"Transfer scheduler started successfully"}
+{"timestamp":"2025-09-08T10:04:56.924+09:00","level":"INFO","message":"Starting HTTP server on port 6214"}
+{"timestamp":"2025-09-08T10:05:01.872+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803,"toBlock":64243903}
+{"timestamp":"2025-09-08T10:05:01.872+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:05:11.592+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803,"toBlock":64243903}
+{"timestamp":"2025-09-08T10:05:11.592+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:05:21.592+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:05:21.593+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:05:31.211+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:05:31.211+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:05:41.119+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:05:41.119+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:05:51.650+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803}
+{"timestamp":"2025-09-08T10:05:51.651+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:06:01.668+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803}
+{"timestamp":"2025-09-08T10:06:01.668+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:06:11.637+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803,"toBlock":64243903}
+{"timestamp":"2025-09-08T10:06:11.637+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:06:21.591+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803}
+{"timestamp":"2025-09-08T10:06:21.591+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:06:31.618+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:06:31.619+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:06:41.196+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:06:41.196+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:06:51.588+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:06:51.588+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:07:01.666+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:07:01.666+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:07:11.097+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803}
+{"timestamp":"2025-09-08T10:07:11.097+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:07:21.129+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803}
+{"timestamp":"2025-09-08T10:07:21.129+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T10:07:31.198+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T10:07:31.199+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T11:50:16.123+09:00","level":"INFO","message":"Log file rotated","log_path":"../logs/2025/09/08/app.log","date":"2025-09-08"}
+{"timestamp":"2025-09-08T11:50:17.645+09:00","level":"INFO","message":"=== Server Configuration ==="}
+{"timestamp":"2025-09-08T11:50:17.645+09:00","level":"INFO","message":"Server Host: localhost"}
+{"timestamp":"2025-09-08T11:50:17.645+09:00","level":"INFO","message":"Server Port: 6214"}
+{"timestamp":"2025-09-08T11:50:17.645+09:00","level":"INFO","message":"=== Configuration Loaded Successfully ==="}
+{"timestamp":"2025-09-08T11:50:17.663+09:00","level":"INFO","message":"Transfer scheduler started successfully"}
+{"timestamp":"2025-09-08T11:50:17.663+09:00","level":"INFO","message":"Starting HTTP server on port 6214"}
+{"timestamp":"2025-09-08T11:50:21.370+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"],"fromBlock":64243803,"toBlock":64243903}
+{"timestamp":"2025-09-08T11:50:21.371+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
+{"timestamp":"2025-09-08T11:50:30.660+09:00","level":"ERROR","message":"FilterLogs failed","error":{"code":-32701,"message":"History has been pruned for this block. To remove restrictions, order a dedicated full node here: https://www.allnodes.com/bnb/host"},"fromBlock":64243803,"toBlock":64243903,"tokenAddresses":["0x1750e94f417cba41350a78e827086a11d66b14cd"]}
+{"timestamp":"2025-09-08T11:50:30.661+09:00","level":"ERROR","message":"TraceMultyToken failed","error":{}}
